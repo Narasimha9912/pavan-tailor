@@ -4,7 +4,7 @@
   Replace 91XXXXXXXXXX with the shop's real WhatsApp number.
   Use country code + digits only. For India, begin with 91.
 */
-const SHOP_WHATSAPP_NUMBER = "918523848400";
+const SHOP_WHATSAPP_NUMBER = "916305844824";
 
 const $ = id => document.getElementById(id);
 
